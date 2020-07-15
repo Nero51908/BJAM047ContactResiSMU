@@ -7,7 +7,7 @@ To output a resistivity value, the measured resistance values are processed with
 ## The Team
   ### Students
   <dl>
-  <dt>[Tao Song](https://www.linkedin.com/in/tao-collin-song-69b60b94/)</dt>
+  <dt><a href="https://www.linkedin.com/in/tao-collin-song-69b60b94/">Tao Song</a></dt>
   <dd>Engineer</dd>
   <dt>Jingxiu Zhao</dt>
   <dd>Engineer</dd>
