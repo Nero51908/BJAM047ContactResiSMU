@@ -4,7 +4,7 @@ description: Capston Project BJAM047 (2020) in the University of Melbourne
 layout: about_page
 ---
 # The Product
-Contact resistivity measurement is a repetitive and standardizable procedure.
+Contact resistivity measurement is a repetitive and standardisable procedure.
 This SMU is developed to switch sample and perform measurement automatically such that its user needs only to setup the SMU once and can expect a resistivity value from the SMU.
 
 The SMU being developed is capable to contact with 6 sample points and measure resistance values between each two adjacent contacts.
@@ -15,16 +15,16 @@ The development of this SMU is performed by a group of three students under supe
 ## Students
   <dl>
   <dt><a href="https://www.linkedin.com/in/tao-collin-song-69b60b94/">Tao Song</a></dt>
-  <dd>Engineer</dd>
+  <dd>Engineer...</dd>
   <dt>Jingxiu Zhao</dt>
-  <dd>Engineer</dd>
+  <dd>Engineer...</dd>
   <dt><a href="https://www.linkedin.com/in/zhuoqun-nero-liu/">Zhuoqun Liu</a></dt>
-  <dd>Engineer</dd>
+  <dd>Engineer...</dd>
   </dl>
 ## Supervisors
   <dl>
-  <dt>James Bullock</dt>
+  <dt>Dr. James Bullock</dt>
   <dd>...</dd>
-  <dt>Rob Delaney</dt>
+  <dt>Mr. Rob Delaney</dt>
   <dd>...</dd>
-  </dl> 
+  </dl>
