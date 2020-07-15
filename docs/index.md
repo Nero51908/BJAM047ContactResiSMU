@@ -7,7 +7,7 @@ layout: default
 Pikachu is the mascot of this project because why not, 可愛いじゃん
 
 就决定是你了，皮卡丘！
-![pikachu](assets/pikachu_replica_small.png)
+![pikachu](assets/kimmeda_pikachu.png)
 ```
 We would've designed our own logo if this were commercial.
 ```
