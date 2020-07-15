@@ -1,6 +1,7 @@
 ---
 title: Project and Team
 description: Capston Project BJAM047 (2020) in the University of Melbourne
+layout: about_page
 ---
 # The Product
 Contact resistivity measurement is a repetitive and standardizable procedure.
