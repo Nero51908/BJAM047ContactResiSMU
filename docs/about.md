@@ -14,7 +14,7 @@ The development of this SMU is performed by a group of three students under supe
   <dl>
   <dt><a href="https://www.linkedin.com/in/tao-collin-song-69b60b94/">Tao Song</a></dt>
   <dd>Engineer...</dd>
-  <dt>Jingxiu Zhao</dt>
+  <dt><a>Jingxiu Zhao</a></dt>
   <dd>Engineer...</dd>
   <dt><a href="https://www.linkedin.com/in/zhuoqun-nero-liu/">Zhuoqun Liu</a></dt>
   <dd>Engineer...</dd>

@@ -1,15 +1,15 @@
 ---
 title: SMU for Resistivity Measurement
-description: Solution to 6-Contact measurement automation
+description: A solution to 6-Contact measurement automation
 layout: default
 ---
 # Pikachu
 Pikachu is the mascot of this project because why not, 可愛いじゃん
 
-就决定是你了，皮卡丘！
 ![pikachu](assets/kimmeda_pikachu.png)
+*就决定是你了，皮卡丘*
 ```
-We would've designed our own logo if this were commercial.
+We would our own logo and mascot instead of Pikachu if this was a commercial project.
 ```
 # User Interface
 I'll walk you through user interface structure, every page, every button.
